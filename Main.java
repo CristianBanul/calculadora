@@ -45,7 +45,7 @@ public class Main {
         System.out.println("4. Calculadora de division");
 
         System.out.println("5. Salir ok ");
-main
+
     }
     static int calculadoraSuma(Scanner scanner){
         System.out.println("Elige el primer numero: ");
