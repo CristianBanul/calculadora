@@ -43,7 +43,7 @@ public class Main {
         System.out.println("2. Calculadora de resta");
         System.out.println("3. Calculadora de multiplicación");
         System.out.println("4. Calculadora de division");
-        System.out.println("5. Salir");
+        System.out.println("5. Salir ok ");
     }
     static int calculadoraSuma(Scanner scanner){
         System.out.println("Elige el primer numero: ");
